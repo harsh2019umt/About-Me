@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harsh2019umt
 - 👀 I’m interested in frontend development
 - ⭐ 3 star coder at codechef
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Data Analytics
 - 📫 How to reach me: 2019umt1728@mnit.ac.in
 
 <!---
